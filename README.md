@@ -8,6 +8,8 @@ Este repositório contém o código fonte do trabalho da disciplina CET083 - Pro
 
 - Instale [Python 3.11](https://www.python.org/downloads/windows/) ou superior.
 - Instale o [Jupyter Notebook](https://jupyter.org/install).
+- Clone o repositório com o comando `git clone https://github.com/italoseara/CET083`.
+- Acesse o diretório do projeto com o comando `cd CET083`.
 - Instale as dependências do projeto com o comando:
   - `py -m pip install -r requirements.txt` (Windows)
   - `python3 -m pip install -r requirements.txt` (Linux)
