@@ -2,9 +2,15 @@
 
 ## Descrição
 
-Este repositório contém o código fonte do trabalho da disciplina CET083 - Probabilidade e Estatística, do curso de Ciência da Computação da Universidade Estadual de Santa Cruz (UESC), ministrada pelo professor [Dr. José Cláudio Faria](https://www.escavador.com/sobre/953317/jose-claudio-faria).
+Este repositório contém o código fonte do trabalho da disciplina CET083 - Probabilidade e Estatística, do curso de Ciência da Computação da Universidade Estadual de Santa Cruz (UESC), ministrada pelo professor [Dr. José Cláudio Faria](https://lec.pro.br/professores/jcfaria/pag-pessoal).
 
-## Execução
+## Visualização (sem instalação)
+
+É possível visualizar o notebook, executar e modificar as células sem instalar nada através do [Google Colab](https://colab.research.google.com/github/italoseara/CET083/blob/main/pos.ipynb).
+
+Também é possível visualizar o notebook como código estático através do [nbviewer](https://nbviewer.org/format/script/github/italoseara/CET083/blob/main/pos.ipynb).
+
+## Instalação e Execução
 
 - Instale [Python 3.11](https://www.python.org/downloads/windows/) ou superior.
 - Instale o [Jupyter Notebook](https://jupyter.org/install).
