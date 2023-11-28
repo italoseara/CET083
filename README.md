@@ -12,7 +12,7 @@ Também é possível visualizar o notebook como código estático através do [n
 
 ## Instalação e Execução
 
-- Instale [Python 3.11](https://www.python.org/downloads/windows/) ou superior.
+- Instale [Python 3.12](https://www.python.org/downloads/windows/) ou superior.
 - Instale o [Jupyter Notebook](https://jupyter.org/install).
 - Clone o repositório com o comando `git clone https://github.com/italoseara/CET083`.
 - Acesse o diretório do projeto com o comando `cd CET083`.
@@ -24,6 +24,10 @@ Também é possível visualizar o notebook como código estático através do [n
 - Abra o arquivo `pos.ipynb` e execute as células.
 
 OBS.: Algumas ótimas alternativas ao Jupyter Notebook são o [Google Colab](https://colab.research.google.com/), que não requer instalação e a extensão do [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) para o [Visual Studio Code](https://code.visualstudio.com/).
+
+## Dúvidas
+
+Em caso de dúvidas, abra uma [issue](https://github.com/italoseara/CET083/issues) ou entre em contato com os autores.
 
 ## Autores
 
